@@ -7,11 +7,11 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackwithharsha&show_icons=true&locale=en&layout=compact" alt="jeromehardaway" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackwithharsha&theme=dark&show_icons=true&locale=en&count_private=true" alt="hackwithharsha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackwithharsha&show_icons=true&locale=en" alt="jeromehardaway" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackwithharsha&theme=dark&show_icons=true&locale=en&count_private=true" alt="hackwithharsha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackwithharsha&" alt="jeromehardaway" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackwithharsha&theme=dark&count_private=true" alt="hackwithharsha" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
