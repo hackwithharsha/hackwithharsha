@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Harsha</h1>
 
 
-<p align="left"> <a href="https://twitter.com/hackwithharsha" target="blank"><img src="https://img.shields.io/twitter/follow/hackwithharsha?logo=twitter&style=for-the-badge" alt="hackwithharsha" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/hackwithharsha" target="blank">
+    <img src="https://img.shields.io/twitter/follow/hackwithharsha?logo=twitter&style=for-the-badge" alt="hackwithharsha" />
+  </a> 
+</p>
+
 
 <!--
 **hackwithharsha/hackwithharsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
