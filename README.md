@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harsha</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I+am+Harsha+!!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
+I'm Harsha Vardhan Sannareddy and I work as a product development lead in American Express Global Business Travel.
 
 <p align="center"> 
   <a href="https://twitter.com/hackwithharsha" target="blank">
